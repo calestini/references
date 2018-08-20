@@ -68,6 +68,7 @@ A few rules for adding the references here:
 
 ## Version Control
   - [Be Nice And Write Stable Code](http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html)
+  - [How to work with git branches](https://www.google.ca/search?q=how+to+work+with+branches+in+git&oq=how+to+work+with+branches&aqs=chrome.0.0j69i57j0l4.3303j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1)
 
 ## Docker
   - [Cloning Docker data volumes](https://www.guidodiepen.nl/2016/05/cloning-docker-data-volumes/)
