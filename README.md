@@ -59,6 +59,7 @@ A few rules for adding the references here:
 ## D3.js
   - [D3 Tutorial](https://github.com/sgratzl/d3tutorial#dev-environment)
   - [Data-Driven Documents (d3.js) tutorials](https://www.fullstackpython.com/d3-js.html)
+  - [Using a d3 voronoi grid to improve a chart's interactive experience](https://www.visualcinnamon.com/2015/07/voronoi.html)
 
 ## Vue.js
   - [Single Page Apps with Vue.js and Flask: Deployment](https://stackabuse.com/single-page-apps-with-vue-js-and-flask-deployment/)
