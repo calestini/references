@@ -33,6 +33,7 @@ A few rules for adding the references here:
   - [Check if a file exists](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists?rq=1)
   - [Python Logging Tutorial](http://www.patricksoftwareblog.com/python-logging-tutorial/)
   - [Quick Tip: Speed up your Python data processing scripts with Process Pools](https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a)
+  - [A Primer on Using LaTeX in Jupyter Notebooks](http://data-blog.udacity.com/posts/2016/10/latex-primer/)
 
 
 ## Flask
