@@ -47,6 +47,7 @@ A few rules for adding the references here:
   - [Python @property](https://www.programiz.com/python-programming/property)
   - [Nginx+Flask+Postgres multi-container setup with Docker Compose](http://www.ameyalokare.com/docker/2017/09/20/nginx-flask-postgres-docker-compose.html)
   - [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
+  - [How to structure a Flask-RESTPlus web service for production builds](https://medium.freecodecamp.org/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563)
 
 ## Oauth
   - [OAuth 2.0 Server PHP - Step-By-Step Walkthrough](https://bshaffer.github.io/oauth2-server-php-docs/cookbook/)
@@ -65,6 +66,7 @@ A few rules for adding the references here:
 ## Vue.js
   - [Single Page Apps with Vue.js and Flask: Deployment](https://stackabuse.com/single-page-apps-with-vue-js-and-flask-deployment/)
   - [Basic Single Page application using Vue.js and Firebase — Part 1](https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228?ref=madewithvuejs.com)
+  - [Understanding Vue.js Lifecycle Hooks](https://alligator.io/vuejs/component-lifecycle/)
 
 ## Remote Desktop
   - [Setup VNC Server on Ubuntu: Complete Ubuntu Remote Desktop Guide](https://www.smarthomebeginner.com/setup-vnc-server-on-ubuntu-linux/)
@@ -80,3 +82,6 @@ A few rules for adding the references here:
 
 ## Blockchain
   - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
+
+## Other
+  - [23 guidelines for writing readable code](https://alemil.com/guidelines-for-writing-readable-code)
